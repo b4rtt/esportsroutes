@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1045738467340",
+    "project_id": "esports-routes",
+    "storage_bucket": "esports-routes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045738467340:android:d3b42057fe569bf5c7be29",
+        "android_client_info": {
+          "package_name": "cz.esports.routes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045738467340-o4f6828os3edgb8l6a8utd7lhkbthqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtzg-vdw2uyQhcqzBQRx6jwBz_12HIhCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045738467340-o4f6828os3edgb8l6a8utd7lhkbthqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045738467340-tvg72713ts1tno1jq8t8ne8h9p8evt2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cz.esports.routes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

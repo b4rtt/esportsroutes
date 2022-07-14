@@ -1,0 +1,48 @@
+{
+    "expo": {
+        "name": "Routes",
+        "scheme": "routes",
+        "slug": "routes",
+        "version": "1.0.0",
+        "icon": "./assets/images/icon.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#fff"
+        },
+        "facebookAppId": "942751985875831",
+        "facebookDisplayName": "Routes",
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "notification": {
+            "icon": "./assets/images/iconPushNotification.png"
+        },
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "cz.esports.routes",
+            "buildNumber": "1.0.0"
+        },
+        "locales": {
+            "cs": "./languages/czech.json"
+        },
+        "android": {
+            "package": "cz.esports.routes",
+            "useNextNotificationsApi": true,
+            "versionCode": 1,
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/adaptive-icon-android.png",
+                "backgroundColor": "#FFF"
+            },
+            "permissions": [],
+            "googleServicesFile": "./google-services.json"
+        },
+        "primaryColor": "#ee1c25",
+        "web": {
+            "favicon": "./assets/images/favicon.png"
+        },
+        "description": "Routes"
+    }
+}
